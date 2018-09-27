@@ -1,0 +1,4 @@
+command is not working in windows 
+y
+y
+y
